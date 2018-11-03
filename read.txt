@@ -1,0 +1,4 @@
+Dentro de la carpeta "pdl-scketchs" esta el archivo "inicio.html", este contiene el html principal de todo.
+Casa ".js" esta con un html que lo hace funcionar y es su correspondiente pagina de ejecucion.
+
+att: Ponce De Leon ALejo
